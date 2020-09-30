@@ -1,4 +1,4 @@
-/*Code by Swayamshee*/
+/*Code by Swayamshee */
 #include <LiquidCrystal.h>
 #include <IRremote.h>
 LiquidCrystal lcd(6,5,12,11,10,7);
